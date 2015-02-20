@@ -13,4 +13,4 @@ This is a starter kit for responsive email. It includes Ink, a responsive framew
 # My display rendered is it perfect on webmail ?
 
 You must use good practices that you know to create a solid email, and make it good on all web and desktop webmail.
-The responsive concept for emailng is like on website. Use media queries. Some webmails doesn't support it (Gmail app for example)
+The responsive concept for emailng is like website. Use media queries. Some webmails don't support it (Gmail app for example)
