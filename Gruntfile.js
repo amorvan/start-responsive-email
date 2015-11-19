@@ -45,8 +45,8 @@ uncss: {
 
 // Watches for changes to css or email templates then runs grunt tasks
 watch: {
-  files: ['src/css/less/*'],
-  tasks: ['default']
+  files: ['less/*'],
+  tasks: ['css']
 }
 });
 
@@ -58,5 +58,6 @@ grunt.loadNpmTasks('grunt-uncss');
 
 
 // Where we tell Grunt what to do when we type "grunt" into the terminal.
+grunt.registerTask('css','less');
 grunt.registerTask('email', ['less','uncss', 'premailer']);
 };
