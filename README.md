@@ -3,6 +3,12 @@ starter kit for responsive emailing
 
 This is a starter kit for responsive email. It includes Ink, a responsive framework for responsive emailing, and a grunt file in order to automate some tasks.
 
+# Requirements :
+
+1/ Grunt ( npm install -g grunt-cli)
+2/ Premailer (gem install premailer)
+
+
 # How to use it ?
 
 1. npm install
