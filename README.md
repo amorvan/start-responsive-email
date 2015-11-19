@@ -5,8 +5,8 @@ This is a starter kit for responsive email. It includes Ink, a responsive framew
 
 # Requirements :
 
-1/ Grunt ( npm install -g grunt-cli)
-2/ Premailer (gem install premailer)
+1. Grunt ( npm install -g grunt-cli)
+2. Premailer (gem install premailer)
 
 
 # How to use it ?
